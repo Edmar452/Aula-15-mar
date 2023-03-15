@@ -1,5 +1,3 @@
-# Edmar
----
 
 ## Dados Pessoais
 
