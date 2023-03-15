@@ -1,10 +1,13 @@
 # Edmar
-
 ---
 
-## Experiencia
+## Dados Pessoais
 
-- Aluno Unimar
-- Dev
+CPF:XXXXXXXXXX
+
+RG:XXXXXXXXXXXX
+
+EMAIL:XXXXXXXXXXXXXXXX
+
 
 ---
