@@ -2,3 +2,8 @@
 ---
 
 ## Experiencia
+
+- Aluno Unimar
+- Dev
+
+---
